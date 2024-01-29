@@ -1,5 +1,5 @@
 ### Changelog
-- Fix `IContentProvider` for Android P and below
+- Fix `IContentProvider` for Android P and below 
 - Properly handle invalid `Parcel`
 - Fix invalid `setOverrideTable` address on some devices
 - Move manager APK to the module path
