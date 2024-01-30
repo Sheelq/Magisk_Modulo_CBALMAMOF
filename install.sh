@@ -44,9 +44,9 @@ else
 ui_print "Parece que sua ROM não é suportada..."
 exit 1;
 fi
-ui_print ""
+ui_print " "
 ui_print "[🚀] Pronto!"
-ui_print ""
+ui_print " "
 ui_print "(⁠ﾉ⁠◕⁠ヮ⁠◕⁠)⁠ﾉ⁠*⁠.⁠✧"
 
 
