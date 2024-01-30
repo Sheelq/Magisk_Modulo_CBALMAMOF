@@ -4,4 +4,4 @@ version=v29012024
 versionCode=29012024
 author=@Sheelq
 description=Novas bootanimation e bootlogo da Motorola para Motorola One Fusion
-updateJson=https://raw.githubusercontent.com/Sheelq/Magisk_Modulos/main/Custom boot AL Motorola Atualizada/updateJson/Index.json
+updateJson=https://raw.githubusercontent.com/Sheelq/Magisk_Modulo_CBALMAMOF/main/release/updateJson.json
