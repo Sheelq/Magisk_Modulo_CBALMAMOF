@@ -1,1 +1,25 @@
-### Repositório do módulo magisk de bootAL para Motorola One Fusion
+# BootAL stock atualizada para Motorola One Fusion
+
+## O que este módulo faz? ##
+Este módulo traz para você a BootAL (bootlogo e bootanimation) para o Motorista One Fusion
+
+## Ajuda ##
+Você pode se juntar ao nosso grupo ou falar diretamente comigo se tiver algum problema!
+
+Meu contato: https://t.me/sheel_q
+Grupo: https://t.me/onefusionastro
+
+## Pré-visualização ##
+Confira as capturas de tela da fonte no link a
+
+## Dispositivos de teste ##
+* [Dispositivo de teste]* Motorola One Fusiom
+* [Dispositivo de teste] Moto G52
+
+(O módulo foi feito especificamente para o Motorola One Fusion, mais como pode ver nos testes a cima pode funcionar em outro celulares, mais cuidado, se algo acontecer não é minha culpa, eu avisei que é para o Motorola One Fusion...)
+
+## Bug conhecido ##
+* Atualmente não ah bugs
+
+## Registro de alterações ##
+* Intial Build
