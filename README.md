@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/Sheelq/Magisk_Modulo_CBALMAMOF/main/release/IMG_20240203_153223_040.jpg)
 
 ## O que este módulo faz? ##
-Este módulo traz para você a BootAL (bootlogo e bootanimation) para o Motorista One Fusion
+Este módulo traz para você a BootAL (bootlogo e bootanimation) atualizadas da Motorola para o Motorola One Fusion
 
 ## Ajuda ##
 Você pode se juntar ao nosso grupo ou falar diretamente comigo se tiver algum problema!
