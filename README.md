@@ -6,7 +6,7 @@
 Este módulo traz para você a BootAL (bootlogo e bootanimation) atualizadas da Motorola para o Motorola One Fusion
 
 ## Ajuda ##
-Você pode se juntar ao nosso grupo ou falar diretamente comigo se tiver algum problema!
+Você pode se juntar ao nosso grupo ou falar diretamente comigo se tiver algum problema ou quiser contribuir para o módulo!
 
 * Meu contato: https://t.me/sheel_q
 * Grupo: https://t.me/onefusionastro
