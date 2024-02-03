@@ -23,5 +23,8 @@ Confira o vídeo de pré-visualização da BootAL [aqui](https://t.me/sheel_qfil
 ## Bug conhecido ##
 * Atualmente não ah bugs conhecidos
 
+## Casos de erros com usuários atualmente ##
+0 Casos de erro registrados
+
 ## Registro de alterações ##
 * Versão inicial
