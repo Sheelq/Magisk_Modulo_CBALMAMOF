@@ -12,9 +12,9 @@ Grupo: https://t.me/onefusionastro
 ## Pré-visualização ##
 Confira as capturas de tela da fonte no link a
 
-## Dispositivos de teste ##
-* [Dispositivo de teste]* Motorola One Fusiom
-* [Dispositivo de teste] Moto G52
+## Dispositivos que testaram esse módulo ##
+* Motorola One Fusiom
+* Moto G52
 
 (O módulo foi feito especificamente para o Motorola One Fusion, mais como pode ver nos testes a cima pode funcionar em outro celulares, mais cuidado, se algo acontecer não é minha culpa, eu avisei que é para o Motorola One Fusion...)
 
