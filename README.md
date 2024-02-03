@@ -6,8 +6,8 @@ Este módulo traz para você a BootAL (bootlogo e bootanimation) para o Motorist
 ## Ajuda ##
 Você pode se juntar ao nosso grupo ou falar diretamente comigo se tiver algum problema!
 
-Meu contato: https://t.me/sheel_q
-Grupo: https://t.me/onefusionastro
+* Meu contato: https://t.me/sheel_q
+* Grupo: https://t.me/onefusionastro
 
 ## Pré-visualização ##
 Confira o vídeo de pré-visualização da BootAL [aqui](https://t.me/sheel_qfiles/2)
