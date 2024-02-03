@@ -10,7 +10,7 @@ Meu contato: https://t.me/sheel_q
 Grupo: https://t.me/onefusionastro
 
 ## Pré-visualização ##
-Confira as capturas de tela da fonte no link a
+Confira o vídeo de pré-visualização da BootAL [aqui](https://t.me/sheel_qfiles/2)
 
 ## Dispositivos que testaram esse módulo ##
 * Motorola One Fusiom
