@@ -21,7 +21,7 @@ Confira o vídeo de pré-visualização da BootAL [aqui](https://t.me/sheel_qfil
 (O módulo foi feito especificamente para o Motorola One Fusion, mais como pode ver nos testes a cima pode funcionar em outro celulares, mais cuidado, se algo acontecer não é minha culpa, eu avisei que é para o Motorola One Fusion...)
 
 ## Bug conhecido ##
-* Atualmente não ah bugs
+* Atualmente não ah bugs conhecidos
 
 ## Registro de alterações ##
-* Intial Build
+* Versão inicial
