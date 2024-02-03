@@ -24,7 +24,7 @@ Confira o vídeo de pré-visualização da BootAL [aqui](https://t.me/sheel_qfil
 * Atualmente não ah bugs conhecidos
 
 ## Casos de erros com usuários atualmente ##
-Nem im caso registrado, até o presente momento, o módulo não causou nem um problema aos usuários
+Nem um caso registrado, até o presente momento, o módulo não causou nem um problema aos usuários
 
 ## Registro de alterações ##
 * Versão inicial
