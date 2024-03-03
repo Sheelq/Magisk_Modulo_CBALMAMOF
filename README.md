@@ -1,4 +1,4 @@
-# BootAL stock atualizada para Motorola One Fusion
+## BootAL stock atualizada para Motorola One Fusion
 
 ![](https://raw.githubusercontent.com/Sheelq/Magisk_Modulo_CBALMAMOF/main/release/IMG_20240203_153223_040.jpg)
 
